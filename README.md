@@ -17,6 +17,8 @@ app more cool.
 Just clone the project and run in a emulator or real device
 
 ## Screenshots of App Running
-![Alt text](/assets/screenshots/st1.png "Dashboard")
 
-![Alt text](/assets/screenshots/st2.png "Notifications")
+<img src="https://raw.githubusercontent.com/jfrsbg/flutter_finance_app/master/assets/screenshots/st1.png" width="300">
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/jfrsbg/flutter_finance_app/master/assets/screenshots/st2.png" width="300">
