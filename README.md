@@ -1,4 +1,7 @@
 # Finance App
+First of all, I'm not a designer, I'm a developer. So, just because  
+I don't want to waste my time thinking in UI/UX I just got this  
+template on internet and transformed it in a real app using Flutter.
 
 This layout in flutter was created by me but the template in XD was  
 created by Mithun Ray that made this template available for free.
@@ -12,3 +15,8 @@ app more cool.
 ## Getting Started
 
 Just clone the project and run in a emulator or real device
+
+## Screenshots of App Running
+![Alt text](/assets/screenshots/st1.png "Dashboard")
+
+![Alt text](/assets/screenshots/st2.png "Notifications")
